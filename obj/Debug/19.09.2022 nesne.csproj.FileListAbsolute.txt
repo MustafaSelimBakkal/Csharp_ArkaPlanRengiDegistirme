@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.exe.config
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.exe
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.pdb
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\_19._09._2022_nesne.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\_19._09._2022_nesne.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.exe
+c:\users\user\documents\visual studio 2013\Projects\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.exe.config
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\bin\Debug\19.09.2022 nesne.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\_19._09._2022_nesne.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\_19._09._2022_nesne.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\19.09.2022 nesne\19.09.2022 nesne\obj\Debug\19.09.2022 nesne.pdb
